@@ -1,0 +1,92 @@
+[
+  {
+    "id": "REV-NPL001",
+    "customerName": "Ram Sharma",
+    "customerCompany": "Himalaya Tech Pvt Ltd",
+    "ratings": { "usability": 5, "accuracy": 5, "support": 4, "overall": 5 },
+    "comment": "AetherFlow ERP transformed our supply chain operations. The multi-agent scheduling reduced our parts delivery delays by 40% in the first quarter. Incredible technology.",
+    "verified": true,
+    "createdAt": "2026-04-15T10:30:00.000Z"
+  },
+  {
+    "id": "REV-NPL002",
+    "customerName": "Sita Thapa",
+    "customerCompany": "Everest Manufacturing Co",
+    "ratings": { "usability": 4, "accuracy": 5, "support": 5, "overall": 5 },
+    "comment": "VisionGuard QA caught defects that our previous system missed completely. The sub-millimeter detection accuracy is remarkable. Our QA compliance jumped from 94% to 99.9%.",
+    "verified": true,
+    "createdAt": "2026-04-20T14:15:00.000Z"
+  },
+  {
+    "id": "REV-NPL003",
+    "customerName": "Bikash Gurung",
+    "customerCompany": "Nepal Digital Solutions",
+    "ratings": { "usability": 5, "accuracy": 4, "support": 5, "overall": 4 },
+    "comment": "TalentScout Recruiter helped us hire 25 skilled developers in just 6 weeks. The semantic skill matching is incredibly accurate. Our time-to-hire dropped from 45 to 18 days.",
+    "verified": true,
+    "createdAt": "2026-05-02T09:45:00.000Z"
+  },
+  {
+    "id": "REV-NPL004",
+    "customerName": "Anita Rai",
+    "customerCompany": "Kathmandu Engineering Works",
+    "ratings": { "usability": 4, "accuracy": 5, "support": 4, "overall": 5 },
+    "comment": "The integration with our existing ERP system was seamless. AI-Solutions team provided excellent support throughout the deployment. Highly recommend AetherFlow.",
+    "verified": true,
+    "createdAt": "2026-05-10T11:20:00.000Z"
+  },
+  {
+    "id": "REV-NPL005",
+    "customerName": "Prakash Magar",
+    "customerCompany": "Lumbini Steel Industries",
+    "ratings": { "usability": 5, "accuracy": 5, "support": 5, "overall": 5 },
+    "comment": "VisionGuard QA system identified micro-fractures in our steel sheets that were causing downstream failures. The ROI was visible within the first month of deployment.",
+    "verified": true,
+    "createdAt": "2026-05-18T16:00:00.000Z"
+  },
+  {
+    "id": "REV-NPL006",
+    "customerName": "Sunita Karki",
+    "customerCompany": "Pokhara Software Hub",
+    "ratings": { "usability": 4, "accuracy": 4, "support": 5, "overall": 4 },
+    "comment": "TalentScout's skill tree parsing is very accurate. We found candidates that would have been overlooked by traditional resume screening. Great tool for tech hiring.",
+    "verified": false,
+    "createdAt": "2026-05-25T08:30:00.000Z"
+  },
+  {
+    "id": "REV-NPL007",
+    "customerName": "Deepak Tamang",
+    "customerCompany": "Trisuli Power Systems",
+    "ratings": { "usability": 5, "accuracy": 4, "support": 4, "overall": 5 },
+    "comment": "AetherFlow optimized our turbine maintenance scheduling by linking weather predictions with service windows. Unplanned downtime reduced by 65%. Outstanding results.",
+    "verified": true,
+    "createdAt": "2026-06-01T13:45:00.000Z"
+  },
+  {
+    "id": "REV-NPL008",
+    "customerName": "Kamala Basnet",
+    "customerCompany": "Yeti Automotive Parts",
+    "ratings": { "usability": 5, "accuracy": 5, "support": 5, "overall": 5 },
+    "comment": "The VisionGuard edge AI system operates flawlessly on our high-speed assembly line. Zero false negatives in 3 months. This is the future of manufacturing QA.",
+    "verified": true,
+    "createdAt": "2026-06-05T10:00:00.000Z"
+  },
+  {
+    "id": "REV-NPL009",
+    "customerName": "Rajan Adhikari",
+    "customerCompany": "Chitwan Robotics Lab",
+    "ratings": { "usability": 4, "accuracy": 5, "support": 4, "overall": 4 },
+    "comment": "The multi-agent scheduling algorithms in AetherFlow are impressive. Our robot assembly line throughput increased by 35% after deployment. Well worth the investment.",
+    "verified": true,
+    "createdAt": "2026-06-08T15:30:00.000Z"
+  },
+  {
+    "id": "REV-NPL010",
+    "customerName": "Maya Limbu",
+    "customerCompany": "Eastern Nepal Textiles",
+    "ratings": { "usability": 3, "accuracy": 4, "support": 5, "overall": 4 },
+    "comment": "Good product overall. The VisionGuard system took some time to calibrate for textile inspection, but the support team was excellent. Now running at 98% accuracy.",
+    "verified": false,
+    "createdAt": "2026-06-10T09:15:00.000Z"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "totalPageViews": 10,
+  "successfulLogins": 0,
+  "failedLogins": 1,
+  "formSubmissionsByDate": {},
+  "pageViewsByDate": {
+    "2026-06-04": 6,
+    "2026-06-05": 4
+  }
+}
